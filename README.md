@@ -37,11 +37,11 @@ An automated vehicle accident detection system that detects major impacts, ident
 
 ### Libraries
 
--ESP8266WiFi
--SoftwareSerial
--TinyGPS++
--Wire
--LiquidCrystal_I2C
+- ESP8266WiFi
+- SoftwareSerial
+- TinyGPS++
+- Wire
+- LiquidCrystal_I2C
 
 ### Software
 
